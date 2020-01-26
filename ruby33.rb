@@ -1,0 +1,1 @@
+puts "ini ruby 33"
