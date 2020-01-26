@@ -8,7 +8,14 @@ class Print
     end
 
     #setter
-    #def text@
+    #def text=(text)
+    #   @text = text
+    #end
+
+    #getter
+    #def text
+    #   @text
+    #end
 
     def print
         puts "mencetak : #{@text}"
